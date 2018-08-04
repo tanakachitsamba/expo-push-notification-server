@@ -1,0 +1,9 @@
+{
+  "name": "expo-push-notification-server",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "expo-server-sdk": "^3.0.1"
+  }
+}
